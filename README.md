@@ -63,9 +63,3 @@ Regression tests compare all three policies against exhaustive route enumeration
 | `tests/` | Exhaustive-oracle regression tests |
 
 
-## Contributing and provenance
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for the contribution workflow and
-[NOTICE.md](NOTICE.md) for source provenance and reuse terms. Dataset licenses
-are separate from code rights. No open-source license was present in the supplied
-materials, so no blanket license has been added.
